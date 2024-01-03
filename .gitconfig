@@ -1,0 +1,6 @@
+[alias]
+co = checkout
+st = status
+ci = commit
+cob = checkout -b
+cim = commit -m
